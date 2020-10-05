@@ -26,6 +26,6 @@ src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-w
 <a href="https://fb.com/xxitiz" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="xxitiz" height="30" width="30" /></a>
 <a href="https://instagram.com/kshitizupreti" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kshitizupreti" height="30" width="30" /></a>
 </p>
-<h2 align="center"><a href="https://www.kshitizupreti.com.np" target="_blank" style="color: red;">
+<h2 align="center"><a href="https://www.kshitizupreti.com.np" target="_blank"">
   👆👆CONNECT WITH ME☝☝
 </a></h2>
