@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I am</h1>
-<h3 align="center">Kshitiz Upreti, Beginner to full stack WEB DEVELOPER from Nepal.</h3>
+<h1 align="center">Hi 👋, I am Kshitiz Upreti</h1>
+<h3 align="center">Beginner to full stack WEB DEVELOPER from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxitiz" alt="XiTiZ" /> </p>
 
