@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web Developing.**
 
-- 👨‍💻 All about me is at [CLICK ME ❤](http://www.kshitizupreti.com.np)
+- 👨‍💻 All about me is at [ My Website ❤](http://www.kshitizupreti.com.np)
 
 - 📫 How to reach me **upreti.kshitiz.ku@gmail.com**
 
