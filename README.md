@@ -27,4 +27,4 @@ src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-w
 </p>
 <h2 align="center"><a href="https://www.kshitizupreti.com.np" target="_blank"">
   👆👆CONNECT WITH ME☝☝
-</a></h2>
+  </a></h2>
