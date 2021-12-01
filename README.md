@@ -4,7 +4,7 @@
 
 - 🎓 I’m Still Learning.
 
-- 🌱 I’m currently learning **Web Developing.**
+- 🌱 I’m currently learning **React//Web Developer.**
 
 - 👨‍💻 All about me is at [ My Website ❤](http://www.kshitizupreti.com.np)
 
