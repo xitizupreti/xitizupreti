@@ -13,9 +13,9 @@
 - ⚡ Fun fact **I Love You 🌹**
 <br>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxitiz&layout=compact&hide=html" alt="My Usage" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitizupreti&layout=compact&hide=html" alt="My Usage" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xxitiz&show_icons=true" alt="My Usage" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xitizupreti&show_icons=true" alt="My Usage" /></p>
 <br><br>
 <p align="center">
 <a href="https://linkedin.com/in/kshitizupreti" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kshitizupreti" height="30" width="30" /></a>
