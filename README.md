@@ -17,7 +17,9 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xitizupreti&show_icons=true&count_private=true&theme=radical" alt="My Usage" /></p>
 <br><br>
+
 ##Languages and Tools:
+
 <p>  
     <a href="https://www.cprogramming.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
