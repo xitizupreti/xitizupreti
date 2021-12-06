@@ -69,11 +69,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a> 
 </p>
-<p align="center">
-<a href="https://linkedin.com/in/kshitizupreti" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kshitizupreti" height="30" width="30" /></a>
-<a href="https://fb.com/xxitiz" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="xxitiz" height="30" width="30" /></a>
-<a href="https://instagram.com/kshitizupreti" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kshitizupreti" height="30" width="30" /></a>
-</p>
-<h2 align="center"><a href="https://www.kshitizupreti.com.np" target="_blank"">
-  👆👆CONNECT WITH ME☝☝
-  </a></h2>
