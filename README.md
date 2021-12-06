@@ -16,6 +16,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitizupreti&layout=compact&theme=nightowl&hide_border=true" alt="My Usage" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xitizupreti&show_icons=true&count_private=true&theme=radical" alt="My Usage" /></p>
+<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anwesh-b&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 <br><br>
 
 ### Languages and Tools:
