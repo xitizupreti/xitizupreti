@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I Love You 🌹**
 <br>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitizupreti&layout=compact&hide=html" alt="My Usage" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitizupreti&layout=compact&theme=nightowl&hide_border=true" alt="My Usage" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xitizupreti&show_icons=true&count_private=true&theme=radical" alt="My Usage" /></p>
 <br><br>
