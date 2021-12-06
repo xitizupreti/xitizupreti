@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I am Kshitiz Upreti</h1>
 <h3 align="center">Beginner to full stack WEB DEVELOPER from Nepal.</h3>
+<p>
+  <a href="https://github.com/xitizupreti">
+    <img src="https://img.shields.io/badge/github-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white" height="25">
+  </a>
+  <a href="https://www.twitter.com/kshitizupreti">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+  </a>
+  <a href="https://www.linkedin.com/in/kshitizupreti">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+  </a> 
+  <a href="https://www.instagram.com/kshitizupreti">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+  </a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxitiz&color=orange" alt="XiTiZ" /> </p>
 
 - 🎓 I’m Still Learning.
