@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I am Kshitiz Upreti</h1>
-<h3 align="center">Beginner to full stack WEB DEVELOPER from Nepal.</h3>
+<h1 align="center">Hi there👋, I am Kshitiz Upreti</h1>
+<h3 align="center">- I'm student of CSIT at MBMC, Tribhuvan University(TU), Kathmandu, Nepal 🇳🇵</h3>
 <p>
   <a href="https://github.com/xitizupreti">
     <img src="https://img.shields.io/badge/github-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white" height="25">
@@ -16,9 +16,9 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxitiz&color=orange" alt="XiTiZ" /> </p> <!-- Using new username i.e (xitizupreti) resets views. -->
 
-- 🎓 I’m Still Learning.
+- 🎓 I’m Still Beginner.
 
-- 🌱 I’m currently learning **React//Web Developer.**
+- 🌱 I’m currently learning **React//JavaScript.**
 
 - 👨‍💻 All about me is at [ My Website ❤](http://www.kshitizupreti.com.np)
 
