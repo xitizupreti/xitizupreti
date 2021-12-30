@@ -15,7 +15,6 @@
   </a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xitizupreti&color=orange" alt="XiTiZ" /> </p> <!-- changed Username so started from 0. wtf -->
-
 - 🎓 I’m Still Beginner.
 
 - 🌱 I’m currently learning **React//JavaScript.**
