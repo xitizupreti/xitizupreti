@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
   </a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xxitiz&color=orange" alt="XiTiZ" /> </p> <!-- Using new username i.e (xitizupreti) resets views. -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xitizupreti&color=orange" alt="XiTiZ" /> </p> <!-- changed Username so started from 0. wtf -->
 
 - 🎓 I’m Still Beginner.
 
