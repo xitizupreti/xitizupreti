@@ -18,7 +18,7 @@
 
 - 🎓 I’m Still Beginner.
 
-- 🌱 I’m currently learning **React//JavaScript.**
+- 🌱 I’m currently learning **React.js.**
 
 - 👨‍💻 All about me is at [ My Website ❤](http://www.kshitizupreti.com.np)
 
