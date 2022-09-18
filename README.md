@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I am Kshitiz Upreti</h1>
+<h1 align="center">Hi there👋, I am Kshitiz Upreti. <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
 <h3 align="center">- I'm student of CSIT at MBMC, Tribhuvan University(TU), Kathmandu, Nepal 🇳🇵</h3>
 <p>
   <a href="https://github.com/xitizupreti">
