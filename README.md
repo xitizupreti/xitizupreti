@@ -28,7 +28,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xitizupreti&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xitizupreti&show_icons=true&count_private=true&theme=radical" alt="My Usage" /></p>
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=xitizupreti&theme=xcode" alt="Kshitiz's Activity Graph" /></p>
+<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=xitizupreti&theme=xcode" alt="Kshitiz's Activity Graph" /></p>
 <br><br>
 
 ### Languages and Tools:
