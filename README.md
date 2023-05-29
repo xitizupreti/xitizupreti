@@ -21,7 +21,7 @@
 
 - 📫 How to reach me : **upreti.kshitiz.ku@gmail.com**
 
-- ⚡ Fun Fact : **Ctrl + C and Ctrl + V have saved more lives than Batman💻**
+- ⚡ Fun Fact : **Ctrl + C, Ctrl + V and Ctrl + Z have saved more lives than Batman💻**
 <br>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitizupreti&layout=compact&theme=nightowl&hide_border=true" alt="My Usage" /></p>
