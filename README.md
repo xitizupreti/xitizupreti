@@ -15,13 +15,13 @@
 
 - 🎓 I’m Still Beginner.
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS.**
 
 - 👨‍💻 All about me is at [ My Website ❤](http://www.kshitizupreti.com.np)
 
 - 📫 How to reach me **upreti.kshitiz.ku@gmail.com**
 
-- ⚡ Fun fact **I Love You 🌹**
+- ⚡ Fun fact **Ctrl + C and Ctrl + V have saved more lives than Batman💻**
 <br>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitizupreti&layout=compact&theme=nightowl&hide_border=true" alt="My Usage" /></p>
