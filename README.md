@@ -4,17 +4,19 @@
 <h3 align="center">- I'm student of CSIT at MBMC, Tribhuvan University(TU), Kathmandu, Nepal 🇳🇵</h3>
 
 - 🎓 I’m Still Beginner.
-- 🌱 I’m currently learning : **NextJS.**
-- 👨‍💻 All about me is at : [ My Website ❤](http://www.kshitizupreti.com.np)
-- 📫 How to reach me : **upreti.kshitiz.ku@gmail.com**
+- 🌱 I’m currently learning: **NextJS.**
+- 👨‍💻 All about me is at [ My Website ❤](http://www.kshitizupreti.com.np)
+- 📫 How to reach me: **upreti.kshitiz.ku@gmail.com**
 - ⚡ Fun Fact : **Ctrl + C, Ctrl + V and Ctrl + Z have saved more lives than Batman💻**
 
 
 # 📊 GitHub Stats:
 
-<p align="center"><img width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xitizupreti&theme=github_dark" alt="My Usage" />
-  <img width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xitizupreti&theme=github_dark" alt="My Stats" /> 
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=xitizupreti&&theme=github_dark" alt="streaks" />
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitizupreti&layout=compact&langs_count=8&theme=dark" alt="xitiz's github stats" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xitizupreti&theme=github_dark" alt="My Stats" /> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xitizupreti&&theme=github_dark" alt="streaks" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=xitizupreti&custom_title=Kshitiz-cd's%20Contribution%20Graph&bg_color=222&color=ddd&line=fff&point=eee&area=true&hide_border=true" alt="Kshitiz's contribution graph" /> 
 </p>
 
 # 💻 Languages and Tools:
