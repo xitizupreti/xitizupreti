@@ -1,9 +1,9 @@
 # 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xitizupreti&color=orange" alt="XiTiZ" /> </p>
 <h1 align="center">Hi there👋, I am Kshitiz Upreti. <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
-<h3 align="center">- I'm student of CSIT at MBMC, Tribhuvan University(TU), Kathmandu, Nepal 🇳🇵</h3>
+<h3 align="center">- I'm student of CSIT, Tribhuvan University(TU), Kathmandu, Nepal 🇳🇵</h3>
 
-- 🎓 I’m Still Beginner.
+- 🎓 I’m Still Learning.
 - 🌱 I’m currently learning: **NextJS.**
 - 👨‍💻 All about me is at [ My Website ❤](http://www.kshitizupreti.com.np)
 - 📫 How to reach me: **upreti.kshitiz.ku@gmail.com**
@@ -69,10 +69,10 @@
     <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
   </a> 
 </p>
-
+<!--
 # 🌐 Socials:
-  
+  <!--
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/xitizupreti)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kshitizupreti)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitizupreti)
-<!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D27A828) -->
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D27A828) -->
