@@ -13,10 +13,10 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitizupreti&layout=compact&langs_count=8&theme=dark" alt="xitiz's github stats" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitizupreti&layout=compact&langs_count=8&theme=dark" alt="Xitiz's github stats" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xitizupreti&theme=github_dark" alt="My Stats" /> 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xitizupreti&&theme=github_dark" alt="streaks" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=xitizupreti&custom_title=Kshitiz-cd's%20Contribution%20Graph&bg_color=222&color=ddd&line=fff&point=eee&area=true&hide_border=true" alt="Kshitiz's contribution graph" /> 
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=xitizupreti&custom_title=Kshitiz's%20Contribution%20Graph&bg_color=222&color=ddd&line=fff&point=eee&area=true&hide_border=true" alt="Kshitiz's contribution graph" /> 
 </p>
 
 # 💻 Languages and Tools:
