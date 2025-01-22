@@ -4,7 +4,7 @@
 <h3 align="center">- I'm student of CSIT, Tribhuvan University(TU), Kathmandu, Nepal 🇳🇵</h3>
 
 - 🎓 I’m Still Learning.
-- 🌱 I’m currently learning: **NextJS.**
+- 🌱 I’m currently learning: **SpringBoot Java**
 - 👨‍💻 All about me is at [ My Website ❤](http://www.kshitizupreti.com.np)
 - 📫 How to reach me: **upreti.kshitiz.ku@gmail.com**
 - ⚡ Fun Fact : **Ctrl + C, Ctrl + V and Ctrl + Z have saved more lives than Batman💻**
