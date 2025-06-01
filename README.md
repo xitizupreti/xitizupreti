@@ -17,7 +17,7 @@
 I'm a passionate Frontend Developer with one year of experience, specializing in building modern, responsive web apps with:
 
 - **Languages & Frameworks:** HTML, CSS (SCSS), JavaScript, React.js, Next.js, Tailwind CSS
-- **Backend & Database:** Node.js, Express.js, MongoDB, MySQL (Currently learning MERN, TypeScript & SpringBoot Java)
+- **Backend & Database:** Node.js, Express.js, MongoDB, MySQL (Currently learning MERN & TypeScript)
 - **Tools:** Git/GitHub, Postman, Firebase
 
 I love turning creative ideas into interactive user experiences. When not coding, you’ll find me exploring new tech, sipping coffee, or collaborating with devs worldwide.
@@ -53,10 +53,10 @@ Here are a few of my favorite and most impactful projects:
 
 ## 💡 Fun Facts
 
-- 🤝 I’ve led international college project teams and love collaborating globally
+- 🤝 I’ve led college project teams and love collaborating globally
 - ☕ Coffee is my favorite programming companion
 - 🏔️ Based in the heart of Nepal — Kathmandu!
-- 📚 Always learning: currently diving deep into MERN stack, TypeScript, and SpringBoot Java
+- 📚 Always learning: currently diving deep into MERN stack and TypeScript
 - 🏆 I’ve also taught JS/React workshops & completed full-stack trainings
 - ⚡ Fun Fact: **Ctrl + C, Ctrl + V, and Ctrl + Z have saved more lives than Batman 💻**
 
