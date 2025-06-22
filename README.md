@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  Frontend Web Developer | Turning ☕ into <strong>code</strong><br>
-  <strong>CSIT Student @ Tribhuvan University (TU), Kathmandu, Nepal 🇳🇵</strong><br>
+  Frontend Web Developer & NOC Engineer | Turning ☕ into <strong>code</strong> and keeping networks online<br>
+  <strong>CSIT Graduate @ Tribhuvan University (TU), Kathmandu, Nepal 🇳🇵</strong><br>
   Kathmandu, Nepal • <a href="mailto:upreti.kshitiz.ku@gmail.com">Email</a> • 
   <a href="https://kshitizupreti.com.np">Portfolio</a> • 
   <a href="https://linkedin.com/in/kshitizupreti">LinkedIn</a>
@@ -19,49 +19,54 @@
 
 ## 👨‍💻 About Me
 
-I’m a Frontend Developer with over a year of experience crafting modern, responsive websites and applications. I specialize in:
+I’m a Frontend Developer and NOC (Network Operations Center) Engineer with experience in crafting responsive websites and ensuring telecom site uptime.
 
-- **Frontend**: HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS, Sass/SCSS, TypeScript  
-- **WordPress & Elementor**: Theme customization, landing pages, Pro & Free Elementor builds  
+### 🔧 What I Do:
+
+- **Frontend Dev**: HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS, Sass/SCSS, TypeScript  
+- **WordPress & Elementor**: Custom themes, responsive landing pages, WooCommerce sites  
 - **Backend & DB**: Node.js, Express.js, MongoDB, MySQL (exploring MERN stack)  
-- **Tools**: Git/GitHub, Postman, Firebase  
+- **NOC Ops**: Site Down (CSD) reports, ticketing in OWS, pole-site checks, site status updates, shift handovers  
+- **Tools**: Git/GitHub, Postman, Firebase, Excel, Terminal, OWS platform
 
-I enjoy implementing creative UI/UX with Pixel-perfect design and clean code, and I love building with WordPress using Elementor.
+🧠 Always learning — from advanced React and TypeScript to telecom protocols like IP, DNS, and subnetting. I enjoy crafting pixel-perfect UIs and building clean, responsive sites with Elementor.
 
-- 🎓 Currently studying at TU and learning MERN + advanced TypeScript  
-- 👨‍🏫 Hosted a JS & React workshop for students  
+- 🎓 CSIT Graduate from TU  
+- 👨‍🏫 Workshop mentor for JS & React  
+- 🔌 Active NOC engineer for telecom infra  
 - ⚡ Fun Fact: **Ctrl + C, Ctrl + V, and Ctrl + Z have saved more lives than Batman**
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🌐 [Personal Portfolio](https://github.com/xitizupreti/kshitizupreti.com.np) – My portfolio and blog  
-- ✅ [Task Manager (MERN)](https://github.com/xitizupreti/taskmanager-mongodb/) – Full-featured task app using MERN  
-- 🛒 [Ghatalelectricals](https://github.com/xitizupreti/ghatalelectricals) – Elementor + WooCommerce store  
-- 🗂️ [Scroller Kanban Board](https://github.com/xitizupreti/Scoller-KanbanBoard) – Drag-and-drop task manager  
-- ✉️ [Signup Form](https://github.com/xitizupreti/intro-component-with-signup-form-master) – Responsive form component  
-- 🖥️ [WordPress Elementor Landing Page] – Local business project (private repo)
+- 🌐 [Personal Portfolio](https://github.com/xitizupreti/kshitizupreti.com.np) – My dev portfolio and blog  
+- ✅ [Task Manager (MERN)](https://github.com/xitizupreti/taskmanager-mongodb/) – Full-stack task app  
+- 🛒 [Ghatalelectricals](https://github.com/xitizupreti/ghatalelectricals) – Elementor + WooCommerce project  
+- 🗂️ [Scroller Kanban Board](https://github.com/xitizupreti/Scoller-KanbanBoard) – Drag-and-drop task board  
+- ✉️ [Signup Form](https://github.com/xitizupreti/intro-component-with-signup-form-master) – Responsive component  
+- 🖥️ WordPress Elementor business site – Private project
 
 ---
 
 ## 📫 Connect with Me
 
-- 🌐 Portfolio: [kshitizupreti.com.np](https://kshitizupreti.com.np)  
-- 💼 LinkedIn: [linkedin.com/in/kshitizupreti](https://linkedin.com/in/kshitizupreti)  
-- 📧 Email: upreti.kshitiz.ku@gmail.com  
-- 🐙 GitHub: [github.com/xitizupreti](https://github.com/xitizupreti)
+- 🌐 [kshitizupreti.com.np](https://kshitizupreti.com.np)  
+- 💼 [linkedin.com/in/kshitizupreti](https://linkedin.com/in/kshitizupreti)  
+- 📧 upreti.kshitiz.ku@gmail.com  
+- 🐙 [github.com/xitizupreti](https://github.com/xitizupreti)
 
 ---
 
 ## 💡 Fun Facts
 
-- 🤝 Experience leading college project teams  
-- ☕ Avid coffee lover and coder  
-- 🏔️ Proudly based in Kathmandu  
-- 📚 Constantly learning MERN, TypeScript, SCSS, and WordPress  
+- ☕ Coffee + Clean Code + Network Uptime = My daily trio  
 - 🧑‍🏫 JS/React workshop instructor  
-- ⚡ Fun Fact: **Ctrl + C, Ctrl + V, Ctrl + Z = lifesavers**
+- 🤝 Experience leading college project teams  
+- 📚 Constantly learning MERN stack, TypeScript, SCSS, WordPress & NOC workflows  
+- 🧠 Passionate about both UI design and system/network stability  
+- 🏔️ Based in Kathmandu, thriving in tech + telecom  
+- ⚡ Fun Fact: **Ctrl + C, Ctrl + V, Ctrl + Z = MVP combo**
 
 ---
 
@@ -98,6 +103,6 @@ I enjoy implementing creative UI/UX with Pixel-perfect design and clean code, an
 ---
 
 <p align="center">
-  <strong>Let's connect & create something amazing!</strong><br>
+  <strong>Let's build fast websites and reliable networks together!</strong><br>
   🌐 <a href="https://kshitizupreti.com.np">Portfolio</a> • <a href="https://linkedin.com/in/kshitizupreti">LinkedIn</a>
 </p>
