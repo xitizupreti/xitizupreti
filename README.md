@@ -4,13 +4,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xitizupreti&label=Profile%20views&color=0e75b6&style=flat" alt="xitizupreti">
+  <img src="https://komarev.com/ghpvc/?username=xitizupreti&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
   <strong>Frontend Developer • IT Manager</strong><br>
- Frontend Developer building responsive, user-focused apps with React, Next.js, and Tailwind CSS - currently working as an IT Manager in the financial sector, focused on performance and reliability. ⚡ <br><br>
-  🎓 CSIT Graduate — Tribhuvan University (TU), Nepal 🇳🇵<br>
+  Frontend Developer building fast, user-focused web apps with React, Next.js, and Tailwind CSS - currently managing systems and infrastructure in the financial sector. ⚡ <br><br>
+  
+  🎓 CSIT Graduate — Tribhuvan University, Nepal 🇳🇵<br>
   📍 Kathmandu, Nepal • 
   <a href="mailto:upreti.kshitiz.ku@gmail.com">Email</a> • 
   <a href="https://kshitizupreti.com.np">Portfolio</a> • 
@@ -21,30 +22,27 @@
 
 ## 👨‍💻 About Me
 
-Frontend Developer with hands-on experience building **responsive, user-focused web applications** using React.js, Next.js, and Tailwind CSS.
+Frontend Developer focused on building **fast, responsive, and user-friendly web applications**.
 
-I focus on writing clean, maintainable code and crafting smooth UI/UX experiences. I’ve worked on real client projects, collaborated in teams, and enjoy solving practical frontend problems.
+Currently working as an IT Manager in the financial sector, handling system performance, reliability, and real-world operational challenges alongside development.
 
-- 💻 Strong in React, Next.js & modern frontend stack  
-- 🎯 Focused on UI/UX, responsiveness & performance  
-- 🧠 Problem-solver with real-world project experience  
-- 🚀 Currently improving TypeScript & advanced frontend concepts  
+I enjoy solving practical frontend problems, improving UI/UX, and writing clean, maintainable code.
 
 ---
 
 ## 🔧 What I Do
 
-### 💻 Frontend Development
-- HTML, CSS, SCSS, JavaScript, TypeScript  
+### 💻 Frontend
 - React.js, Next.js, Tailwind CSS  
+- HTML, CSS, SCSS, JavaScript, TypeScript  
 - Responsive design & performance optimization  
 
-### 🌐 WordPress & Elementor
+### 🌐 WordPress
 - Custom websites & landing pages  
-- WooCommerce store development  
+- WooCommerce development  
 - UI/UX improvements  
 
-### ⚙️ Backend (Working Knowledge)
+### ⚙️ Backend (Basics)
 - Node.js, Express.js, REST APIs  
 - MongoDB, MySQL  
 
@@ -55,27 +53,26 @@ Git • GitHub • Postman • Firebase • Excel
 
 ## 💼 Experience
 
-### 🏦 IT Manager — Shubhakamana Securities Pvt. Ltd. (Broker No. 71)  
+### 🏦 IT Manager — Shubhakamana Securities Pvt. Ltd.  
 **April 2026 – Present**
-- Manage IT infrastructure, including trading systems, servers, and network operations  
-- Ensure data synchronization with CDS/SEBON systems and maintain system reliability  
-- Monitor performance, troubleshoot issues, and maintain the uptime of critical platforms  
-- Handle security, user access control, and system configurations  
-- Coordinate with vendors and teams for maintenance and system upgrades
-  
-### 📡 NOC Engineer — Huawei 
+- Manage IT infrastructure including trading systems, servers, and networks  
+- Ensure data synchronization with CDS/SEBON systems  
+- Monitor performance, troubleshoot issues, and maintain system uptime  
+- Handle security, access control, and configurations  
+- Coordinate with vendors for system maintenance and upgrades  
+
+### 📡 NOC Engineer — Huawei  
 **June 2025 – Feb 2026**
-- Monitored telecom network sites and handled real-time incident resolution  
-- Managed CSD reports and ensured timely recovery of down sites  
-- Worked with the OWS ticketing system for issue tracking and escalation  
-- Maintained smooth shift handovers for operational continuity  
+- Monitored telecom network sites and handled real-time incidents  
+- Managed CSD reports and ensured timely recovery  
+- Used OWS ticketing system for tracking and escalation  
+- Maintained operational continuity across shifts  
 
 ### 🌐 WordPress Developer — Delta Creation  
 **May 2025 – Nov 2025**
 - Built responsive Elementor-based websites  
-- Customized themes & improved UI/UX  
+- Customized themes and improved UI/UX  
 - Optimized performance across devices  
-- Delivered client-focused solutions  
 
 ### 💻 Frontend Developer — Real-Time Solutions  
 **May 2023 – June 2023**
@@ -86,31 +83,20 @@ Git • GitHub • Postman • Firebase • Excel
 
 ## 🚀 Featured Projects
 
-- 🌐 [Personal Portfolio](https://github.com/xitizupreti/kshitizupreti.com.np)  
-  Responsive React-based portfolio with blog  
-
-- ✅ [Task Manager (MERN)](https://github.com/xitizupreti/taskmanager-mongodb/)  
-  Full-stack app with authentication & CRUD  
-
-- 🛒 [Ghatalelectricals](https://github.com/xitizupreti/ghatalelectricals)  
-  WordPress + WooCommerce project  
-
-- 🗂️ [Scroller Kanban Board](https://github.com/xitizupreti/Scoller-KanbanBoard)  
-  Drag-and-drop task management UI  
-
-- 📝 [Notes App](https://github.com/xitizupreti/notes-app)  
-  Simple and clean note-taking SPA  
-
-- ✉️ [Signup Form](https://github.com/xitizupreti/intro-component-with-signup-form-master)  
-  Responsive UI component  
+- 🌐 [Portfolio](https://github.com/xitizupreti/kshitizupreti.com.np) — React-based personal portfolio with blog  
+- ✅ [Task Manager (MERN)](https://github.com/xitizupreti/taskmanager-mongodb/) — Auth + CRUD full-stack app  
+- 🛒 [Ghatal Electricals](https://github.com/xitizupreti/ghatalelectricals) — WooCommerce store  
+- 🗂️ [Kanban Board](https://github.com/xitizupreti/Scoller-KanbanBoard) — Drag-and-drop UI  
+- 📝 [Notes App](https://github.com/xitizupreti/notes-app) — Simple SPA  
+- ✉️ [Signup UI](https://github.com/xitizupreti/intro-component-with-signup-form-master) — Responsive component  
 
 ---
 
 ## 🧠 Leadership & Teaching
 
-- 👨‍🏫 JS/React Workshop Instructor (College)  
-- 🤝 Led capstone project team  
-- 🧑‍💻 Experience guiding and collaborating with teams  
+- 👨‍🏫 JS/React Workshop Instructor  
+- 🤝 Led college capstone project team  
+- 🧑‍💻 Experience collaborating across teams  
 
 ---
 
@@ -126,7 +112,6 @@ Git • GitHub • Postman • Firebase • Excel
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff"/>
   <img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=fff"/>
   <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/-Elementor-92003B?logo=elementor&logoColor=fff"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff"/>
@@ -139,18 +124,16 @@ Git • GitHub • Postman • Firebase • Excel
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitizupreti&layout=compact&langs_count=8&theme=dark" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xitizupreti&theme=github_dark" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xitizupreti&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitizupreti&layout=compact&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xitizupreti&theme=github_dark" />
 </p>
 
 ---
 
 ## 💡 Fun Side
 
-- ☕ Coffee + Code = Productivity  
+- ☕ Coffee + Code  
 - 🎸 Learning guitar  
-- 🧑‍💻 Love building clean UI  
 - ⚡ Ctrl + C, Ctrl + V, Ctrl + Z = MVP combo  
 
 ---
