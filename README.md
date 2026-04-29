@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <strong>Frontend Developer</strong><br>
-  Building fast, responsive, and user-focused web applications ⚡<br><br>
+  <strong>Frontend Developer • IT Manager</strong><br>
+ Frontend Developer building responsive, user-focused apps with React, Next.js, and Tailwind CSS - currently working as an IT Manager in the financial sector, focused on performance and reliability. ⚡ <br><br>
   🎓 CSIT Graduate — Tribhuvan University (TU), Nepal 🇳🇵<br>
   📍 Kathmandu, Nepal • 
   <a href="mailto:upreti.kshitiz.ku@gmail.com">Email</a> • 
@@ -55,11 +55,20 @@ Git • GitHub • Postman • Firebase • Excel
 
 ## 💼 Experience
 
+### 🏦 IT Manager — Shubhakamana Securities Pvt. Ltd. (Broker No. 71)  
+**April 2026 – Present**
+- Manage IT infrastructure, including trading systems, servers, and network operations  
+- Ensure data synchronization with CDS/SEBON systems and maintain system reliability  
+- Monitor performance, troubleshoot issues, and maintain the uptime of critical platforms  
+- Handle security, user access control, and system configurations  
+- Coordinate with vendors and teams for maintenance and system upgrades
+  
 ### 📡 NOC Engineer — Huawei 
 **June 2025 – Feb 2026**
-- Worked on telecom site monitoring & incident handling  
-- Managed CSD reports and ticketing workflows  
-- Gained experience in real-time system operations  
+- Monitored telecom network sites and handled real-time incident resolution  
+- Managed CSD reports and ensured timely recovery of down sites  
+- Worked with the OWS ticketing system for issue tracking and escalation  
+- Maintained smooth shift handovers for operational continuity  
 
 ### 🌐 WordPress Developer — Delta Creation  
 **May 2025 – Nov 2025**
