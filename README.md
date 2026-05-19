@@ -4,14 +4,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xitizupreti&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=xitizupreti&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <strong>Frontend Developer • IT Manager</strong><br>
-  Frontend Developer building fast, user-focused web apps with React, Next.js, and Tailwind CSS - currently managing systems and infrastructure in the financial sector. ⚡ <br><br>
-  
-  🎓 CSIT Graduate — Tribhuvan University, Nepal 🇳🇵<br>
+  <strong>Frontend Developer • IT Manager</strong><br/>
+  React • Next.js • Tailwind • TypeScript • MERN (basic backend understanding)
+</p>
+
+<p align="center">
+  🎓 CSIT Graduate — Tribhuvan University, Nepal 🇳🇵<br/>
   📍 Kathmandu, Nepal • 
   <a href="mailto:upreti.kshitiz.ku@gmail.com">Email</a> • 
   <a href="https://kshitizupreti.com.np">Portfolio</a> • 
@@ -22,124 +24,108 @@
 
 ## 👨‍💻 About Me
 
-Frontend Developer focused on building **fast, responsive, and user-friendly web applications**.
+Frontend Developer focused on building **fast, scalable, and user-friendly web applications**.
 
-Currently working as an IT Manager in the financial sector, handling system performance, reliability, and real-world operational challenges alongside development.
+Currently working as an IT Manager in the financial sector, handling infrastructure, system reliability, and operational stability alongside development.
 
-I enjoy solving practical frontend problems, improving UI/UX, and writing clean, maintainable code.
+I enjoy turning ideas into clean UI, optimizing performance, and building real-world usable systems.
 
 ---
 
-## 🔧 What I Do
+## 🚀 Tech Stack
 
-### 💻 Frontend
-- React.js, Next.js, Tailwind CSS  
-- HTML, CSS, SCSS, JavaScript, TypeScript  
-- Responsive design & performance optimization  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,nodejs,express,mongodb,mysql,git,firebase,wordpress" />
+</p>
 
-### 🌐 WordPress
-- Custom websites & landing pages  
-- WooCommerce development  
-- UI/UX improvements  
+---
 
-### ⚙️ Backend (Basics)
-- Node.js, Express.js, REST APIs  
-- MongoDB, MySQL  
+## 📊 GitHub Stats (Core)
 
-### 🛠️ Tools
-Git • GitHub • Postman • Firebase • Excel  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xitizupreti&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitizupreti&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Streak & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xitizupreti&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xitizupreti&theme=github_dark" />
+</p>
+
+---
+
+## 📈 Contribution Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xitizupreti&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xitizupreti&theme=github_dark&utcOffset=5.45" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xitizupreti&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xitizupreti&theme=github_dark" />
+</p>
 
 ---
 
 ## 💼 Experience
 
-### 🏦 IT Manager — Shubhakamana Securities Pvt. Ltd.  
-**April 2026 – Present**
-- Manage IT infrastructure including trading systems, servers, and networks  
-- Ensure data synchronization with CDS/SEBON systems  
-- Monitor performance, troubleshoot issues, and maintain system uptime  
-- Handle security, access control, and configurations  
-- Coordinate with vendors for system maintenance and upgrades  
+### 🏦 IT Manager — Shubhakamana Securities Pvt. Ltd.
+- Manage trading systems, servers, and IT infrastructure  
+- Ensure system uptime, performance, and security  
+- Coordinate with vendors and external systems (CDS/SEBON)
 
-### 📡 NOC Engineer — Huawei  
-**June 2025 – Feb 2026**
-- Monitored telecom network sites and handled real-time incidents  
-- Managed CSD reports and ensured timely recovery  
-- Used OWS ticketing system for tracking and escalation  
-- Maintained operational continuity across shifts  
+### 📡 NOC Engineer — Huawei
+- Monitored telecom network operations  
+- Incident handling and escalation  
+- Ensured service continuity across shifts  
 
-### 🌐 WordPress Developer — Delta Creation  
-**May 2025 – Nov 2025**
-- Built responsive Elementor-based websites  
-- Customized themes and improved UI/UX  
-- Optimized performance across devices  
+### 🌐 WordPress Developer — Delta Creation
+- Elementor-based responsive websites  
+- UI/UX improvements and performance optimization  
 
-### 💻 Frontend Developer — Real-Time Solutions  
-**May 2023 – June 2023**
-- Built React applications with API integration  
-- Improved UI performance and responsiveness  
+### 💻 Frontend Developer — Real-Time Solutions
+- React apps with API integration  
+- UI optimization and responsive layouts  
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🌐 [Portfolio](https://github.com/xitizupreti/kshitizupreti.com.np) — React-based personal portfolio with blog  
-- ✅ [Task Manager (MERN)](https://github.com/xitizupreti/taskmanager-mongodb/) — Auth + CRUD full-stack app  
-- 🛒 [Ghatal Electricals](https://github.com/xitizupreti/ghatalelectricals) — WooCommerce store  
-- 🗂️ [Kanban Board](https://github.com/xitizupreti/Scoller-KanbanBoard) — Drag-and-drop UI  
-- 📝 [Notes App](https://github.com/xitizupreti/notes-app) — Simple SPA  
-- ✉️ [Signup UI](https://github.com/xitizupreti/intro-component-with-signup-form-master) — Responsive component  
+- 🌐 Portfolio — React + Next.js personal site  
+- ✅ Task Manager — MERN CRUD + Auth system  
+- 🛒 WooCommerce Store — Ghatal Electricals  
+- 🗂️ Kanban Board — Drag & drop UI  
+- 📝 Notes App — Simple SPA  
+- ✉️ Signup UI — Responsive frontend component  
 
 ---
 
 ## 🧠 Leadership & Teaching
 
-- 👨‍🏫 JS/React Workshop Instructor  
-- 🤝 Led college capstone project team  
-- 🧑‍💻 Experience collaborating across teams  
+- 👨‍🏫 Conducted React/JS workshops  
+- 🤝 Led academic capstone project team  
+- 🧑‍💻 Team collaboration & mentoring experience  
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Fun Side
 
-<p>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=222"/>
-  <img src="https://img.shields.io/badge/-Next.js-000?logo=next.js"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=fff"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitizupreti&layout=compact&theme=dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xitizupreti&theme=github_dark" />
-</p>
-
----
-
-## 💡 Fun Side
-
-- ☕ Coffee + Code  
+- ☕ Coffee + Code = Focus mode  
 - 🎸 Learning guitar  
-- ⚡ Ctrl + C, Ctrl + V, Ctrl + Z = MVP combo  
+- ⚡ Ctrl + C, Ctrl + V, Ctrl + Z survival kit  
 
 ---
 
 <p align="center">
-  <strong>Let’s build modern, fast, and scalable web experiences 🚀</strong><br>
+  <strong>Let’s build modern, fast, and scalable web experiences 🚀</strong><br/>
   🌐 <a href="https://kshitizupreti.com.np">Portfolio</a> • 
   💼 <a href="https://linkedin.com/in/kshitizupreti">LinkedIn</a> • 
   🐙 <a href="https://github.com/xitizupreti">GitHub</a>
