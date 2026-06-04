@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <strong>Frontend Developer • IT Manager</strong><br/>
+  <strong>Frontend Developer • IT Officer</strong><br/>
   React • Next.js • Tailwind • TypeScript • MERN (basic backend understanding)
 </p>
 
@@ -26,7 +26,7 @@
 
 Frontend Developer focused on building **fast, scalable, and user-friendly web applications**.
 
-Currently working as an IT Manager in the financial sector, handling infrastructure, system reliability, and operational stability alongside development.
+Currently working as an IT Officer in the financial sector, handling infrastructure, system reliability, and operational stability alongside development.
 
 I enjoy turning ideas into clean UI, optimizing performance, and building real-world usable systems.
 
@@ -71,7 +71,7 @@ I enjoy turning ideas into clean UI, optimizing performance, and building real-w
 
 ## 💼 Experience
 
-### 🏦 IT Manager — Shubhakamana Securities Pvt. Ltd.
+### 🏦 IT Officer — Shubhakamana Securities Pvt. Ltd.
 - Manage trading systems, servers, and IT infrastructure  
 - Ensure system uptime, performance, and security  
 - Coordinate with vendors and external systems (CDS/SEBON)
