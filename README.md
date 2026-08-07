@@ -91,17 +91,6 @@ I enjoy turning ideas into clean UI, optimizing performance, and building real-w
 
 ---
 
-## 🚀 Featured Projects
-
-- 🌐 Portfolio — React + Next.js personal site  
-- ✅ Task Manager — MERN CRUD + Auth system  
-- 🛒 WooCommerce Store — Ghatal Electricals  
-- 🗂️ Kanban Board — Drag & drop UI  
-- 📝 Notes App — Simple SPA  
-- ✉️ Signup UI — Responsive frontend component  
-
----
-
 ## 🧠 Leadership & Teaching
 
 - 👨‍🏫 Conducted React/JS workshops  
